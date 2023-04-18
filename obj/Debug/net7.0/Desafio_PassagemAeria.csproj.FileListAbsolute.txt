@@ -1,0 +1,15 @@
+C:\Users\46291995867\Desktop\Desafio_PassagemAeria\bin\Debug\net7.0\Desafio_PassagemAeria.exe
+C:\Users\46291995867\Desktop\Desafio_PassagemAeria\bin\Debug\net7.0\Desafio_PassagemAeria.deps.json
+C:\Users\46291995867\Desktop\Desafio_PassagemAeria\bin\Debug\net7.0\Desafio_PassagemAeria.runtimeconfig.json
+C:\Users\46291995867\Desktop\Desafio_PassagemAeria\bin\Debug\net7.0\Desafio_PassagemAeria.dll
+C:\Users\46291995867\Desktop\Desafio_PassagemAeria\bin\Debug\net7.0\Desafio_PassagemAeria.pdb
+C:\Users\46291995867\Desktop\Desafio_PassagemAeria\obj\Debug\net7.0\Desafio_PassagemAeria.csproj.AssemblyReference.cache
+C:\Users\46291995867\Desktop\Desafio_PassagemAeria\obj\Debug\net7.0\Desafio_PassagemAeria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\46291995867\Desktop\Desafio_PassagemAeria\obj\Debug\net7.0\Desafio_PassagemAeria.AssemblyInfoInputs.cache
+C:\Users\46291995867\Desktop\Desafio_PassagemAeria\obj\Debug\net7.0\Desafio_PassagemAeria.AssemblyInfo.cs
+C:\Users\46291995867\Desktop\Desafio_PassagemAeria\obj\Debug\net7.0\Desafio_PassagemAeria.csproj.CoreCompileInputs.cache
+C:\Users\46291995867\Desktop\Desafio_PassagemAeria\obj\Debug\net7.0\Desafio_PassagemAeria.dll
+C:\Users\46291995867\Desktop\Desafio_PassagemAeria\obj\Debug\net7.0\refint\Desafio_PassagemAeria.dll
+C:\Users\46291995867\Desktop\Desafio_PassagemAeria\obj\Debug\net7.0\Desafio_PassagemAeria.pdb
+C:\Users\46291995867\Desktop\Desafio_PassagemAeria\obj\Debug\net7.0\Desafio_PassagemAeria.genruntimeconfig.cache
+C:\Users\46291995867\Desktop\Desafio_PassagemAeria\obj\Debug\net7.0\ref\Desafio_PassagemAeria.dll
